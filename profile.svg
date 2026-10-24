@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1035px" height="469px" viewBox="0 0 1035 469" font-size="14px" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace">
+<svg xmlns="http://www.w3.org/2000/svg" width="1035px" height="507px" viewBox="0 0 1035 507" font-size="14px" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace">
 <style>
 .key{fill:#e0685e;} .value{fill:#dd9a4d;} .cc{fill:#616e7f;}
 text,tspan{white-space:pre;}
 </style>
-<rect width="1035px" height="469px" fill="#161b22" rx="15"/>
+<rect width="1035px" height="507px" fill="#161b22" rx="15"/>
 <g fill="#c9d1d9">
 <text x="24" y="39.7" xml:space="preserve" textLength="537.6" lengthAdjust="spacingAndGlyphs">isabela@l1ghtn1ng ──────────────────────────────────────────────</text>
 <text x="24" y="58.7" xml:space="preserve" textLength="537.6" lengthAdjust="spacingAndGlyphs"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">Windows 11, Arch Linux</tspan></text>
@@ -11,24 +11,26 @@ text,tspan{white-space:pre;}
 <text x="24" y="96.7" xml:space="preserve" textLength="537.6" lengthAdjust="spacingAndGlyphs"><tspan class="cc">. </tspan><tspan class="key">Ubicación</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">Uruguay</tspan></text>
 <text x="24" y="115.7" xml:space="preserve" textLength="537.6" lengthAdjust="spacingAndGlyphs"><tspan class="cc">. </tspan><tspan class="key">Estudios (en curso)</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Tecnólogo en Ciberseguridad</tspan></text>
 <text x="24" y="134.7" xml:space="preserve"><tspan class="cc">. </tspan></text>
-<text x="24" y="153.7" xml:space="preserve" textLength="537.6" lengthAdjust="spacingAndGlyphs"><tspan class="cc">. </tspan><tspan class="key">Stack.Lenguajes</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Bash, Python, HTML, CSS</tspan></text>
+<text x="24" y="153.7" xml:space="preserve" textLength="537.6" lengthAdjust="spacingAndGlyphs"><tspan class="cc">. </tspan><tspan class="key">Stack.Lenguajes</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Bash, Python, SQL, HTML, CSS</tspan></text>
 <text x="24" y="172.7" xml:space="preserve" textLength="537.6" lengthAdjust="spacingAndGlyphs"><tspan class="cc">. </tspan><tspan class="key">Stack.Tools</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">Burp Suite, ffuf, gobuster, katana, subfinder</tspan></text>
 <text x="24" y="191.7" xml:space="preserve" textLength="537.6" lengthAdjust="spacingAndGlyphs"><tspan class="cc">. </tspan><tspan class="cc">                     </tspan><tspan class="value">amass, jxscout, nmap, nuclei, sqlmap, ...</tspan></text>
 <text x="24" y="210.7" xml:space="preserve"><tspan class="cc">. </tspan></text>
 <text x="24" y="229.7" xml:space="preserve" textLength="537.6" lengthAdjust="spacingAndGlyphs">- Bug Bounty ───────────────────────────────────────────────────</text>
-<text x="24" y="248.7" xml:space="preserve" textLength="537.6" lengthAdjust="spacingAndGlyphs"><tspan class="cc">. </tspan><tspan class="key">Plataforma</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">bugcrowd.com/h/l1ghtn1ng</tspan></text>
-<text x="24" y="267.7" xml:space="preserve" textLength="537.6" lengthAdjust="spacingAndGlyphs"><tspan class="cc">. </tspan><tspan class="key">Findings</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">3 confirmados</tspan></text>
-<text x="24" y="286.7" xml:space="preserve" textLength="537.6" lengthAdjust="spacingAndGlyphs"><tspan class="cc">. </tspan><tspan class="key">Reconocimiento</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Letter of Recognition - NASA</tspan></text>
-<text x="24" y="305.7" xml:space="preserve" textLength="537.6" lengthAdjust="spacingAndGlyphs"><tspan class="cc">. </tspan><tspan class="key">Labs</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">170 (PortSwigger Academy)</tspan></text>
-<text x="24" y="324.7" xml:space="preserve"><tspan class="cc">. </tspan></text>
-<text x="24" y="343.7" xml:space="preserve" textLength="537.6" lengthAdjust="spacingAndGlyphs">- Contacto ─────────────────────────────────────────────────────</text>
-<text x="24" y="362.7" xml:space="preserve" textLength="537.6" lengthAdjust="spacingAndGlyphs"><tspan class="cc">. </tspan><tspan class="key">Blog</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">l1ghtn1ng.vercel.app/blog</tspan></text>
-<text x="24" y="381.7" xml:space="preserve" textLength="537.6" lengthAdjust="spacingAndGlyphs"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">/in/isabela-l1ghtn1ng/</tspan></text>
-<text x="24" y="400.7" xml:space="preserve"><tspan class="cc">. </tspan></text>
-<text x="24" y="419.7" xml:space="preserve" textLength="537.6" lengthAdjust="spacingAndGlyphs">- Intereses ────────────────────────────────────────────────────</text>
-<text x="24" y="438.7" xml:space="preserve" textLength="537.6" lengthAdjust="spacingAndGlyphs"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Bug bounty, Blog, IA, Formación continua</tspan></text>
+<text x="24" y="248.7" xml:space="preserve" textLength="537.6" lengthAdjust="spacingAndGlyphs"><tspan class="cc">. </tspan><tspan class="key">Plataformas</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">bugcrowd.com/h/l1ghtn1ng</tspan></text>
+<text x="24" y="267.7" xml:space="preserve" textLength="537.6" lengthAdjust="spacingAndGlyphs"><tspan class="cc">. </tspan><tspan class="cc">                                   </tspan><tspan class="value">yeswehack.com/hunters/l1ght</tspan></text>
+<text x="24" y="286.7" xml:space="preserve" textLength="537.6" lengthAdjust="spacingAndGlyphs"><tspan class="cc">. </tspan><tspan class="key">Findings</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">10 confirmados</tspan></text>
+<text x="24" y="305.7" xml:space="preserve" textLength="537.6" lengthAdjust="spacingAndGlyphs"><tspan class="cc">. </tspan><tspan class="key">Reconocimiento</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Letter of Recognition - NASA</tspan></text>
+<text x="24" y="324.7" xml:space="preserve" textLength="537.6" lengthAdjust="spacingAndGlyphs"><tspan class="cc">. </tspan><tspan class="key">Logro</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">1er puesto - OEA Cyber Challenge Uruguay 2026</tspan></text>
+<text x="24" y="343.7" xml:space="preserve" textLength="537.6" lengthAdjust="spacingAndGlyphs"><tspan class="cc">. </tspan><tspan class="key">Labs</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">180 (PortSwigger Academy)</tspan></text>
+<text x="24" y="362.7" xml:space="preserve"><tspan class="cc">. </tspan></text>
+<text x="24" y="381.7" xml:space="preserve" textLength="537.6" lengthAdjust="spacingAndGlyphs">- Contacto ─────────────────────────────────────────────────────</text>
+<text x="24" y="400.7" xml:space="preserve" textLength="537.6" lengthAdjust="spacingAndGlyphs"><tspan class="cc">. </tspan><tspan class="key">Blog</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">l1ghtn1ng.vercel.app/blog</tspan></text>
+<text x="24" y="419.7" xml:space="preserve" textLength="537.6" lengthAdjust="spacingAndGlyphs"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">/in/isabela-l1ghtn1ng/</tspan></text>
+<text x="24" y="438.7" xml:space="preserve"><tspan class="cc">. </tspan></text>
+<text x="24" y="457.7" xml:space="preserve" textLength="537.6" lengthAdjust="spacingAndGlyphs">- Intereses ────────────────────────────────────────────────────</text>
+<text x="24" y="476.7" xml:space="preserve" textLength="537.6" lengthAdjust="spacingAndGlyphs"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Bug bounty, Blog, IA, Formación continua</tspan></text>
 </g>
-<g fill="#b9c1c9">
+<g fill="#b9c1c9" transform="translate(0,19)">
 <text x="599.6" y="38.0" xml:space="preserve" textLength="411.6" lengthAdjust="spacingAndGlyphs">             ...,:;::::,                         </text>
 <text x="599.6" y="54.9" xml:space="preserve" textLength="411.6" lengthAdjust="spacingAndGlyphs">          :fL1:..:;it1;iti:,.                    </text>
 <text x="599.6" y="71.7" xml:space="preserve" textLength="411.6" lengthAdjust="spacingAndGlyphs">        ,tCL;i;. . ,f8@ftLLt;:,                  </text>
